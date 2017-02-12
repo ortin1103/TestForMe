@@ -3,4 +3,4 @@ devDev some edit
 change 
 
 dev 1 edit txt
->>>>>>> dev1
+
